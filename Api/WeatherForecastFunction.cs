@@ -22,7 +22,7 @@ namespace BlazorApp.Api
             }
             else if (temp <= 16 && temp > 0)
             {
-                summary = "Cold";
+                summary = "Cold :(";
             }
             else if (temp <= 0)
             {
